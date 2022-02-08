@@ -4,7 +4,7 @@
 #
 # Author Daniel Porto
 
-FROM google/cloud-sdk:324.0.0-alpine
+FROM google/cloud-sdk:369.0.0-alpine
 LABEL maintainer="daniel.porto@gmail.com"
 #-----------------------------------------------------------------------------
 # install dependencies
